@@ -1,5 +1,8 @@
 # github-profile-viewer001
 
+
+#Live Demo ->
+
 # Github Profile Viewer 🐙
 
 A simple and responsive web application to search and view Github profiles with their stats. Enter a Github username to see the user's profile picture, bio, location, repositories, followers, following, gists, and links to Github and blog.
@@ -22,6 +25,10 @@ A simple and responsive web application to search and view Github profiles with 
 
 ## Demo
 
+## Screenshots
+
+**Search Interface**  
+![Search Interface](assets/github-profile-viewer)
 
 
 ---
@@ -35,9 +42,3 @@ A simple and responsive web application to search and view Github profiles with 
 
 ---
 
-## Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/<your-username>/github-profile-viewer.git
