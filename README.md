@@ -28,7 +28,9 @@ A simple and responsive web application to search and view Github profiles with 
 ## Screenshots
 
 **Search Interface**  
-![Search Interface](assets/github-profile-viewer)
+![Search Interface](github-profile-viewer.png)
+ <img width="1870" height="861" alt="github-profile-viewer" src="https://github.com/user-attachments/assets/10cde479-94ee-4dcc-bc03-85e3f3d2d9ef" />
+
 
 
 ---
